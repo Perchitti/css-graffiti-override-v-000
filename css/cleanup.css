@@ -9,7 +9,7 @@
 }
 
 #wall .slickwicked {
-  display.none
+  display: none;
 }
 
 #wall .parent #tag-4 {
